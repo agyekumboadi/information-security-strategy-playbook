@@ -1,1 +1,1 @@
-# msc-information-security-strategy
+# msc-info-security-strategy
