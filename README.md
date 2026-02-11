@@ -4,6 +4,8 @@ This repository documents a practical information security strategy and controls
 
 ## What this repository contains
 
+Start here: open the overview report in `evidence/report/`, then the detailed report.
+
 Key artefacts are stored under `evidence/`:
 
 - `evidence/report/` contains two reports
