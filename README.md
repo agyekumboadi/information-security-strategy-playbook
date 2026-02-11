@@ -1,4 +1,4 @@
-# Information Security Strategy Playbook (Regulated Environments)
+# Information Security Strategy Development Playbook (Regulated Environments)
 
 This repository documents a practical information security strategy and controls playbook designed for regulated operational environments. It demonstrates risk based thinking, control mapping, and audit ready documentation, written to be understandable by both technical and non technical stakeholders.
 
