@@ -17,6 +17,17 @@ Key artefacts are stored under `evidence/`:
 
 Note: organisation specific sensitive information is excluded. The focus is on transferable security strategy methods, control thinking, and verification ready documentation.
 
+### Supporting diagrams (docs)
+
+#### Risk assessment methodology
+![Risk assessment methodology](docs/risk_assessment_methodology_flowchart.jpeg)
+
+#### Security strategy overview
+![Security strategy overview](docs/brief_infosecurity_strategy_diagram.jpeg)
+
+#### Incident response lifecycle
+![Incident response lifecycle](docs/incident_response_model.jpeg)
+
 ## What this work demonstrates
 
 This work demonstrates how I:
