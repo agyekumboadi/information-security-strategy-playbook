@@ -20,7 +20,7 @@ Note: organisation specific sensitive information is excluded. The focus is on t
 ### Supporting diagrams (docs)
 
 #### Risk assessment methodology
-![Risk assessment methodology](docs/risk_assessment_methodology_flowchart.jpeg)
+![Risk assessment methodology flowchart](docs/risk_assessment_methodology_flowchart.jpeg)
 
 #### Security strategy overview
 ![Security strategy overview](docs/brief_infosecurity_strategy_diagram.jpeg)
